@@ -1,3 +1,3 @@
 ﻿  WordCount.cpp
-E:\git\WordCount\WordCount.cpp(5,32): warning C4081: 应输入“newline”；找到“;”
+E:\git\WordCount\WordCount.cpp(3,32): warning C4081: 应输入“newline”；找到“;”
   WordCount.vcxproj -> E:\git\WordCount\Debug\WordCount.exe
